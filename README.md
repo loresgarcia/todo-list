@@ -1,6 +1,6 @@
 # 📝 To-do List com Redux Toolkit
 
-Este é um projeto de **Todo List** desenvolvido com **React** e **Redux Toolkit**. O objetivo é demonstrar o uso do Redux Toolkit para simplificar o gerenciamento de estado global em uma aplicação de lista de tarefas.
+Este é um projeto de **To-do List** desenvolvido com **React** e **Redux Toolkit**. O objetivo é demonstrar o uso do Redux Toolkit para simplificar o gerenciamento de estado global em uma aplicação de lista de tarefas.
 
 ## 🚀 Como executar
 
