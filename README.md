@@ -1,8 +1,29 @@
-# React + Vite
+# 📝 Todo List com Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de **Todo List** desenvolvido com **React** e **Redux Toolkit**. O objetivo é demonstrar o uso do Redux Toolkit para simplificar o gerenciamento de estado global em uma aplicação de lista de tarefas.
 
-Currently, two official plugins are available:
+## 🚀 Como Executar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para executar o projeto, siga os passos abaixo:
+
+### 📋 Pré-requisitos
+
+- Node.js (Superior a 16.0.0)
+
+### ⚙️ Passo a Passo
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/loresgarcia/todo-list.git
+   cd todo-list
+   ```
+
+2. **Instale as dependências**:
+   ```bash
+   npm install
+   ```
+
+3. **Inicie o projeto**:
+   ```bash
+   npm run dev
+   ```
